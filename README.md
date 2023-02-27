@@ -5,4 +5,4 @@
 
 
 
-<a href="smartguardla.com"> 关于我们</a>
+<a href="https://smartguardla.com"> 关于我们</a>
